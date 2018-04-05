@@ -1,4 +1,4 @@
-## Tristan Wolf
+## About Me
 
 I am an iOS Developer who is driven by a passion for UX design and problem solving.  I strive to make user experiences that are both intuitive and enjoyable, while making sure to design them in a way that makes changes intuitive to implement.  My main goal right now is to master Soroush Khanlou's coordinator pattern. 
 
