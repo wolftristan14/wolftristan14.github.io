@@ -34,5 +34,5 @@ RealDimensions - Measure the dimensions of objects in your surroundings with onl
 
 #### Contact Info
 
-Email: wolftristan70@gmail.com
-Phone Number: 4168340595
+* Email: wolftristan70@gmail.com
+* Phone Number: 4168340595
