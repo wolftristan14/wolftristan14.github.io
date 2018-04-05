@@ -1,5 +1,7 @@
 ## About Me
 
+![webp net-resizeimage](https://user-images.githubusercontent.com/24685539/38385800-dce52236-38e0-11e8-94a7-2540bf178f64.jpg)
+
 I am an iOS Developer who is driven by a passion for UX design and problem solving.  I strive to make user experiences that are both intuitive and enjoyable, while making sure to design them in a way that makes changes intuitive to implement.  My main goal right now is to master Soroush Khanlou's coordinator pattern. 
 
 
