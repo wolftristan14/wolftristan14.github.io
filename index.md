@@ -1,10 +1,9 @@
-## Welcome to GitHub Pages
+## Tristan Wolf
 
-You can use the [editor on GitHub](https://github.com/wolftristan14/wolftristan14.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am an iOS Developer who is driven by a passion for UX design and problem solving.  I strive to make user experiences that are both intuitive and enjoyable, while making sure to design them in a way that makes changes intuitive to implement.  My main goal right now is to master Soroush Khanlou's coordinator pattern. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Projects
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
