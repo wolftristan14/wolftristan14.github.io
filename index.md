@@ -3,34 +3,23 @@
 I am an iOS Developer who is driven by a passion for UX design and problem solving.  I strive to make user experiences that are both intuitive and enjoyable, while making sure to design them in a way that makes changes intuitive to implement.  My main goal right now is to master Soroush Khanlou's coordinator pattern. 
 
 
-### Projects
+### Current Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+UWORideshare -  Ride sharing app for students at The University Of Western Ontario.  Using Swift, Firebase, Algolia.
 
-```markdown
-Syntax highlighted code block
+### Languages
 
-# Header 1
-## Header 2
-### Header 3
+* Swift
+* Objective-C
+* Python
+* Javascript (Node.js)
 
-- Bulleted
-- List
+### Past Projects
 
-1. Numbered
-2. List
+VisSearch - Identify different food products with your camera and get information about them.  Similar to the SeeFood app from the show Silicon Valley.  Used Swift, CoreML, Google Cloud Platform, Redis.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+ARPainter - Identify walls in your surroundings and paint them using AR.  Allows you to see what a room's walls would look like as a different colour before painting them.  Used Swift, ARKit.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wolftristan14/wolftristan14.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+RealDimensions - Measure the dimensions of objects in your surroundings with only one tap,  save a lot of time calculating measurements.  Used Swift, ARKit, Open CV.
