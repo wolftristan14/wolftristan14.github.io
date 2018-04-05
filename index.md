@@ -5,7 +5,7 @@ I am an iOS Developer who is driven by a passion for UX design and problem solvi
 
 ## Current Projects
 
-UWORideshare -  Ride sharing app for students at The University Of Western Ontario.  Using Swift, Firebase, Algolia.
+UWORideshare -  A ridesharing app for students at The University Of Western Ontario. Users can join rides and post their own rides to or from London, Ontario along with a bunch of other great features. They can rate drivers, make payments in the app and choose preferences for their rides such as smoking/non-smoking, is there lots of luggage space, will there be rest stops, and many more.  Using Swift, Firebase, Algolia.
 
 ![webp net-resizeimage](https://user-images.githubusercontent.com/24685539/38383915-bd3ac6d4-38db-11e8-9c70-3eb17fc8337c.png)
 
@@ -22,7 +22,7 @@ UWORideshare -  Ride sharing app for students at The University Of Western Ontar
 * Python
 * Javascript (Node.js)
 
-### Past Projects
+### Past Projects (at Gradient Ascent)
 
 VisSearch - Identify different food products with your camera and get information about them.  Similar to the SeeFood app from the show Silicon Valley.  Used Swift, CoreML, Google Cloud Platform, Redis.
 
@@ -31,3 +31,8 @@ ARPainter - Identify walls in your surroundings and paint them using AR.  Allows
 
 
 RealDimensions - Measure the dimensions of objects in your surroundings with only one tap,  save a lot of time calculating measurements.  Used Swift, ARKit, Open CV.
+
+#### Contact Info
+
+Email: wolftristan70@gmail.com
+Phone Number: 4168340595
