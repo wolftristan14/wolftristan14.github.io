@@ -3,9 +3,17 @@
 I am an iOS Developer who is driven by a passion for UX design and problem solving.  I strive to make user experiences that are both intuitive and enjoyable, while making sure to design them in a way that makes changes intuitive to implement.  My main goal right now is to master Soroush Khanlou's coordinator pattern. 
 
 
-### Current Projects
+## Current Projects
 
 UWORideshare -  Ride sharing app for students at The University Of Western Ontario.  Using Swift, Firebase, Algolia.
+
+![webp net-resizeimage](https://user-images.githubusercontent.com/24685539/38383915-bd3ac6d4-38db-11e8-9c70-3eb17fc8337c.png)
+
+![webp net-resizeimage 7](https://user-images.githubusercontent.com/24685539/38383921-c05d1f6a-38db-11e8-9596-8c160d73a90b.png)
+
+![webp net-resizeimage 2](https://user-images.githubusercontent.com/24685539/38383932-c6f677b8-38db-11e8-82f6-68112d7176c4.png)
+
+![webp net-resizeimagew](https://user-images.githubusercontent.com/24685539/38383938-c8de2846-38db-11e8-8ffa-e9a87ef1b493.png)
 
 ### Languages
 
