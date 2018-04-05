@@ -26,11 +26,18 @@ UWORideshare -  A ridesharing app for students at The University Of Western Onta
 
 VisSearch - Identify different food products with your camera and get information about them.  Similar to the SeeFood app from the show Silicon Valley.  Used Swift, CoreML, Google Cloud Platform, Redis.
 
+![img_0635](https://user-images.githubusercontent.com/24685539/38384643-b1a7cb94-38dd-11e8-8ce5-3cd444f66f31.jpg)
+![img_0636](https://user-images.githubusercontent.com/24685539/38384644-b1b863f0-38dd-11e8-8aa3-167b5aa58ecf.jpg)
+![img_0637](https://user-images.githubusercontent.com/24685539/38384645-b1c7bb7a-38dd-11e8-934f-6645b2a6c29d.jpg)
 
 ARPainter - Identify walls in your surroundings and paint them using AR.  Allows you to see what a room's walls would look like as a different colour before painting them.  Used Swift, ARKit.
 
+![img_0642](https://user-images.githubusercontent.com/24685539/38384648-b1e4ce36-38dd-11e8-9ca4-b1d2cfef1fd5.jpg)
 
 RealDimensions - Measure the dimensions of objects in your surroundings with only one tap,  save a lot of time calculating measurements.  Used Swift, ARKit, Open CV.
+
+![img_0640](https://user-images.githubusercontent.com/24685539/38384646-b1d65144-38dd-11e8-89dd-d9ed0d7044d6.jpg)
+
 
 #### Contact Info
 
