@@ -11,7 +11,7 @@ I'm iOS Developer who is driven by a passion for UX design and problem solving. 
 ## Projects
 
 
-**UWORideshare** -  A ridesharing app for students at The University Of Western Ontario. Users can join rides and post their own rides to or from London, Ontario along with a bunch of other great features. They can rate drivers, make payments in the app and choose preferences for their rides such as smoking/non-smoking, is there lots of luggage space, will there be rest stops, and many more.  Using Swift, Firebase, Algolia.
+**UWORideshare** -  A ridesharing app for students at The University Of Western Ontario. Users can join rides and post their own rides to or from London, Ontario along with a bunch of other great features. They can rate drivers and choose preferences for their rides such as smoking/non-smoking, is there lots of luggage space, will there be rest stops, and many more.  Used Swift, Firebase, Algolia.
 
 ![webp net-resizeimage 10](https://user-images.githubusercontent.com/24685539/39374123-d3867076-4a17-11e8-9d95-ef09e7311e19.png)
 ![webp net-resizeimage 9](https://user-images.githubusercontent.com/24685539/39374124-d399d8be-4a17-11e8-9bde-c3196f05837a.png)
